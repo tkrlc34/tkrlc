@@ -1,0 +1,12 @@
+ {
+	"name": "دوار القاعدة",
+	"description": "Drift Track",
+	"tags" : ["#drift","drift","test track","circuit","original","Saudi Arabia"],
+	"geotags": ["lat", "lon"],
+	"country": "Saudi Arabia",
+	"city": "Tokyo",
+	"length": "905",
+	"width": "20",
+	"pitboxes": "20",
+	"run": "DRIFT"
+}
